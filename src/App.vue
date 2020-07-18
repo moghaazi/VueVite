@@ -7,7 +7,7 @@
 <!-- ================ Script ================================================ -->
 <script>
 export default {
-  data: () => ({ name: `Sara`, age: 20 }),
+  data: () => ({ name: `Ahmad` }),
 }
 </script>
 
